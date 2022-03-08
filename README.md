@@ -1,7 +1,9 @@
 ### Hi there , I'm Vimelia
 
+<div>
   <img width="53%" alt="" src="https://github-readme-stats.vercel.app/api?username=Vimelia&show_icons=true&bg_color=2B2A29&icon_color=EF7F1A&text_color=FFF&title_color=EF7F1A"/>
   <img width="44%" alt="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vimelia&layout=compact&bg_color=2B2A29&text_color=FFF&title_color=EF7F1A"/>
+</div>
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vimelia&show_icons=true&locale=en&layout=compact" alt="Vimelia" /></p>
 <!--
 **Vimelia/Vimelia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
