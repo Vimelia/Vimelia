@@ -1,5 +1,5 @@
 <p align="center">
-<h1 style="color:#2B2A29;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);"> Hi there , I'm Vimelia !</h1>
+<h1 align="center" style="color:#2B2A29;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);"> Hi there , I'm Vimelia !</h1>
  <p align="center">I'm work for Backend Web Developing ve 3D Sculpting!</p>
  </p>
  <div align="center"> 
