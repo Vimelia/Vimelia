@@ -1,6 +1,6 @@
 <p align="center">
 <h1 align="center" style="color:#2B2A29;text-shadow: 3px 4px 4px rgba(205, 50, 70, 0.7);"> Hi there , I'm Vimelia :fox_face:!</h1>
- <p align="center">I'm work for Backend Web Developing ve 3D Sculpting!</p>
+ <p align="center">I'm a 3D Artist!</p>
  </p>
  <div align="center"> 
   <a target="_blank" href="https://www.linkedin.com/in/vahide-degirmenci/"> <img alt="iletisim | Linkedin" src="https://img.shields.io/badge/linkedin-2B2A29.svg?style=for-the-badge&logo=linkedin&logoColor=EF7F1A"></a> 
